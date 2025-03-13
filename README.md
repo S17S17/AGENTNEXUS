@@ -56,8 +56,8 @@ AGENTNEXUS is built with a modular architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/agentnexus.git
-   cd agentnexus
+   git clone https://github.com/S17S17/AGENTNEXUS.git
+   cd AGENTNEXUS
    ```
 
 2. Install dependencies:
@@ -88,12 +88,12 @@ For development:
 
 ## Documentation
 
-Comprehensive documentation is available in the [Docs](./Docs) directory:
+Comprehensive documentation is available in the project:
 
-- [Universal Agent Interface Standard](./Docs/UAIS.md)
-- [Blockchain Integration](./Docs/Blockchain%20API.md)
-- [Caching System](./Docs/Caching%20System.md)
-- [API Reference](./Docs/Nexus%20API.md)
+- [Universal Agent Interface Standard](./universal_agent_interface.md)
+- [Decentralized Registry](./decentralized_registry.md)
+- [Automated Validation Pipeline](./automated_validation_pipeline.md)
+- [Reputation and Reward System](./reputation_reward_system.md)
 
 ## Contributing
 
@@ -114,7 +114,7 @@ We welcome contributions from the community! Please see our [Contributing Guidel
 - **Q4 2023**: Advanced agent collaboration features
 - **Q1 2024**: Decentralized governance and community features
 
-See the [open issues](https://github.com/yourusername/agentnexus/issues) for a list of proposed features and known issues.
+See the [open issues](https://github.com/S17S17/AGENTNEXUS/issues) for a list of proposed features and known issues.
 
 ## License
 
